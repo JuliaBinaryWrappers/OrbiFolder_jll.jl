@@ -1,0 +1,17 @@
+version = "1.2.1+0"
+name = "OrbiFolder_jll"
+uuid = "18eeeee5-a3f5-5ccc-8fa7-488edfeb05d2"
+
+[deps]
+GSL_jll = "1b77fbbe-d8ee-58f0-85f9-836ddc23a7a4"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+
+[compat]
+Libdl = "< 0.0.1, 1"
+julia = "1.6"
+JLLWrappers = "1.7.0"
+Artifacts = "< 0.0.1, 1"

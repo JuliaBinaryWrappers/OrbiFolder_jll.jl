@@ -1,0 +1,124 @@
+[[OrbiFolder]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fd1ceb0aab87854d4fa8d6bddcb0622427aa2166"
+libc = "glibc"
+os = "linux"
+
+    [[OrbiFolder.download]]
+    sha256 = "10bdbc83d8044d14d40bb237928674198fa7cfded285ec8f27f28c69cc2135e3"
+    url = "https://github.com/JuliaBinaryWrappers/OrbiFolder_jll.jl/releases/download/OrbiFolder-v1.2.1+0/OrbiFolder.v1.2.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[OrbiFolder]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "58db400d20d321443c94144d8caec9996f63a731"
+libc = "musl"
+os = "linux"
+
+    [[OrbiFolder.download]]
+    sha256 = "ac357ddd0cdebd26c31550b931d416128e3c7f2d20de39bc3b2b09fd537fa602"
+    url = "https://github.com/JuliaBinaryWrappers/OrbiFolder_jll.jl/releases/download/OrbiFolder-v1.2.1+0/OrbiFolder.v1.2.1.aarch64-linux-musl-cxx11.tar.gz"
+[[OrbiFolder]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7089c5207495965c8dec446574b2e08c6c68db02"
+libc = "glibc"
+os = "linux"
+
+    [[OrbiFolder.download]]
+    sha256 = "80e8a5abf8af97b60224d0cc6b3ef83fc619550f457a33a351b349f59b33d8e4"
+    url = "https://github.com/JuliaBinaryWrappers/OrbiFolder_jll.jl/releases/download/OrbiFolder-v1.2.1+0/OrbiFolder.v1.2.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[OrbiFolder]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "11817db53483ca6206e62af3c08f742164230564"
+libc = "musl"
+os = "linux"
+
+    [[OrbiFolder.download]]
+    sha256 = "6fc7c452ae258494f166474f982ae0eac3da0e9cb739db30a6b79117b25ea379"
+    url = "https://github.com/JuliaBinaryWrappers/OrbiFolder_jll.jl/releases/download/OrbiFolder-v1.2.1+0/OrbiFolder.v1.2.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[OrbiFolder]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5fa24b081bb48d4e6446a5b99b5428beb5d3867e"
+libc = "glibc"
+os = "linux"
+
+    [[OrbiFolder.download]]
+    sha256 = "1ac44b4a4521c65f82b30b45dcdbf93948af67c8f8893999532fb5f7d272bc72"
+    url = "https://github.com/JuliaBinaryWrappers/OrbiFolder_jll.jl/releases/download/OrbiFolder-v1.2.1+0/OrbiFolder.v1.2.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[OrbiFolder]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1891494b159902f543e43dda606129cdd582d471"
+libc = "musl"
+os = "linux"
+
+    [[OrbiFolder.download]]
+    sha256 = "ec1e4fdac8d2e187860969a6065df9b4d28a98782a3f1d308ec89c911edb6333"
+    url = "https://github.com/JuliaBinaryWrappers/OrbiFolder_jll.jl/releases/download/OrbiFolder-v1.2.1+0/OrbiFolder.v1.2.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[OrbiFolder]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "86129ab48c26e040d6f901cb00984557b599e9ba"
+libc = "glibc"
+os = "linux"
+
+    [[OrbiFolder.download]]
+    sha256 = "20a33ebb1e4f2407e63b29d4ae0047e3b309cdb4ae082eceb97bae76416ce237"
+    url = "https://github.com/JuliaBinaryWrappers/OrbiFolder_jll.jl/releases/download/OrbiFolder-v1.2.1+0/OrbiFolder.v1.2.1.i686-linux-gnu-cxx11.tar.gz"
+[[OrbiFolder]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a99d4b32c59e8a46b751dfb20787c8033f0134db"
+libc = "musl"
+os = "linux"
+
+    [[OrbiFolder.download]]
+    sha256 = "7d3212ba3adfbbf237c3f3044daa158c92d18c298419e25f5b05c10c7ddd0b15"
+    url = "https://github.com/JuliaBinaryWrappers/OrbiFolder_jll.jl/releases/download/OrbiFolder-v1.2.1+0/OrbiFolder.v1.2.1.i686-linux-musl-cxx11.tar.gz"
+[[OrbiFolder]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0377ed5999f2299c0ed3308341b9229700fdaffd"
+libc = "glibc"
+os = "linux"
+
+    [[OrbiFolder.download]]
+    sha256 = "f671e4c40470e9721644761945799a75eeab03b2858986fc766d113fdbffa728"
+    url = "https://github.com/JuliaBinaryWrappers/OrbiFolder_jll.jl/releases/download/OrbiFolder-v1.2.1+0/OrbiFolder.v1.2.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[OrbiFolder]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "55a83bbdbc4b8a7818c283a4953342a195a4b036"
+libc = "glibc"
+os = "linux"
+
+    [[OrbiFolder.download]]
+    sha256 = "7b146a41a98acd911be70121c5da35e0e9f5f4199af26fd18e98e9a50e895412"
+    url = "https://github.com/JuliaBinaryWrappers/OrbiFolder_jll.jl/releases/download/OrbiFolder-v1.2.1+0/OrbiFolder.v1.2.1.riscv64-linux-gnu-cxx11.tar.gz"
+[[OrbiFolder]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "96de58d0e077fe2621ae1af506448d4fb735085a"
+libc = "glibc"
+os = "linux"
+
+    [[OrbiFolder.download]]
+    sha256 = "383f58af7ac91ad516c326165fb68c8f3f58ad58c5887c02df84f096c67989f9"
+    url = "https://github.com/JuliaBinaryWrappers/OrbiFolder_jll.jl/releases/download/OrbiFolder-v1.2.1+0/OrbiFolder.v1.2.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[OrbiFolder]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e1d5667eaea81e2881342d56ed7ff08d1bc6d4d6"
+libc = "musl"
+os = "linux"
+
+    [[OrbiFolder.download]]
+    sha256 = "dbfe7f068d5eea431f66dfac9f5f182fd4f54e6a96e07884ec4dbafaec3c4477"
+    url = "https://github.com/JuliaBinaryWrappers/OrbiFolder_jll.jl/releases/download/OrbiFolder-v1.2.1+0/OrbiFolder.v1.2.1.x86_64-linux-musl-cxx11.tar.gz"
